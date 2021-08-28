@@ -4,4 +4,4 @@ I'm Micah, a fourth year Computer Science major and recently retired [NCAA swimm
 I am currently in the middle of an 8-month internship at [FORM](https://ca.formswim.com/) and also learning how to exercise without a coach (I'd appreciate any tips you have)! 
 
 - 📫 Email: micahelau@gmail.com
-- 😄 [Personal website](https://micah-el.github.io/) | [LinkedIn](https://www.linkedin.com/in/micahlau/)
+- 😄 [Personal website](http://micahlau.com/) | [LinkedIn](https://www.linkedin.com/in/micahlau/)
